@@ -12,7 +12,7 @@ sections:
       - label: Resgistrate
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Servicios
         url: /pricing
         style: secondary
     image: /images/post-1.jpg
