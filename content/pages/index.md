@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Lleva tu mejor paquete.
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Que se ajuste a tu necesidad.
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
